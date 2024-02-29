@@ -11,6 +11,6 @@ setup(
     description='a utility for backing PostgreSQL databases',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/pgbackup',
+    url='https://github.com/AlexT78/pgbackup',
     packages=find_packages('src')
 )
